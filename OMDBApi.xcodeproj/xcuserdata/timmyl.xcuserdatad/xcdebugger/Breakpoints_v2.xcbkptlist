@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD5718FE-DF83-4F36-934D-F8B4B32F74FB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3E22A83-A85B-44C5-8206-EB1F510E76BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/j7/0g6_sry54wv5hpj9d6_bb6300000gp/T/swift-generated-sources/@__swiftmacro_7OMDBApi0019MovieRowswift_DJEEdfMX74_0_33_9AAD98C935FD480907CB4AE782DD562BLl7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "$s7OMDBApi0019MovieRowswift_DJEEdfMX74_0_33_9AAD98C935FD480907CB4AE782DD562BLl7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F343D0B-2DFA-4AA9-8134-27E239341625"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/j7/0g6_sry54wv5hpj9d6_bb6300000gp/T/swift-generated-sources/@__swiftmacro_7OMDBApi0019MovieRowswift_DJEEdfMX83_0_33_9AAD98C935FD480907CB4AE782DD562BLl7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "$s7OMDBApi0019MovieRowswift_DJEEdfMX83_0_33_9AAD98C935FD480907CB4AE782DD562BLl7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

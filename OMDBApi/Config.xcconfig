@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  OMDBApi
+//
+//  Created by Timmy Lau on 2024-12-17.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+API_KEY = 4d37c27e
+
